@@ -1,0 +1,15 @@
+# High-Peak-Software-Employee-Goodies
+
+INSTRUCTIONS: 
+
+To run file:
+
+1. Open visual studio code
+2. And then, select the folder and open the files
+3. Open Goodies.java file 
+4. Press run button in visual studio code
+5. Open Output.txt file to view the goodies output.
+6. Now again, open the input.txt file and change the number of employees input and save the input.txt file.
+7. again run the Goodies.java file.
+8. Open the output.txt file to view the output.
+9. Repeat the same process of changing number of employees and run the program for atleast for 3 different inputs.
